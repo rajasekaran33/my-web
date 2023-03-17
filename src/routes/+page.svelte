@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+
+<img src="https://avatars.githubusercontent.com/u/6880254?v=4" alt="image of rajasekaran">
+<h1>Rajasekaran S</h1>
+<p>I am a professor</p> 
